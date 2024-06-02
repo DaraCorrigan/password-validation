@@ -1,4 +1,4 @@
-name: password-validation-app
+name: password_validation_app
 description: Password Validator
 
 publish_to: "none"
